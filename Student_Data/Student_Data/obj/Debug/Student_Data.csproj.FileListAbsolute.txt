@@ -1,0 +1,7 @@
+C:\Users\muval\Documents\Project 1.32(Section 8)\Student_Data\Student_Data\bin\Debug\Student_Data.exe.config
+C:\Users\muval\Documents\Project 1.32(Section 8)\Student_Data\Student_Data\bin\Debug\Student_Data.exe
+C:\Users\muval\Documents\Project 1.32(Section 8)\Student_Data\Student_Data\bin\Debug\Student_Data.pdb
+C:\Users\muval\Documents\Project 1.32(Section 8)\Student_Data\Student_Data\obj\Debug\Student_Data.csproj.AssemblyReference.cache
+C:\Users\muval\Documents\Project 1.32(Section 8)\Student_Data\Student_Data\obj\Debug\Student_Data.csproj.CoreCompileInputs.cache
+C:\Users\muval\Documents\Project 1.32(Section 8)\Student_Data\Student_Data\obj\Debug\Student_Data.exe
+C:\Users\muval\Documents\Project 1.32(Section 8)\Student_Data\Student_Data\obj\Debug\Student_Data.pdb
